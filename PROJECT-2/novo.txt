@@ -1,0 +1,9 @@
+pb-1 4pixela bottom
+pb-2 8pixela bottom
+pb-3 16pixela bottom
+pb-4 24pixela bottom
+pb-5 48pixela bottom
+
+umjesto b mogzu korsitti t sto je top i mogu staviti takoder r i l sto je right i left
+
+umjesto p mogu korsitti i m sto je margina
